@@ -2,6 +2,7 @@
 
 A full-stack web application that enables customers to search for vehicles, schedule appointments, and manage bookings. Showroom owners can manage inventory, view appointment requests, and track customer interactions through an intuitive admin dashboard.
 
+
 ## Features
 
 ### For Customers
