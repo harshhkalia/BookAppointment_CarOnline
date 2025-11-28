@@ -4,6 +4,7 @@ A full-stack web application that enables customers to search for vehicles, sche
 
 ## Features
 
+
 ### For Customers
 - Browse and search available vehicles with detailed specifications
 - Filter cars by brand, price range, model, and features
